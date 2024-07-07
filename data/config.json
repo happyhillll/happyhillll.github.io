@@ -1,0 +1,119 @@
+{
+  "project": {
+    "name": "recital museum",
+    "quality": 1
+  },
+  "loader": {
+    "info": "data/info.md",
+    "timeline": "data/timeline.csv",
+    "items": "data/modified_music_data_with_id.csv",
+    "voicetype": "data/voicetype.csv",
+    "layouts": [
+      {
+        "title": "Time"
+      },
+      {
+        "title": "Similarity",
+        "url": "data/tsne.csv",
+        "scale": 1.1
+      }
+    ],
+
+    "textures": {
+      "medium": {
+        "size": 256,
+        "url": "data/sprites/spritesheet.json"
+      },
+      "detail": {
+        "size": 1024,
+        "url": "data/1024/"
+      },
+      "big": {
+        "size": 4096,
+        "url": "data/4096/"
+      }
+    }
+  },
+  "style": {
+    "fontColor": "#ed6f63",
+    "fontColorActive": "#eae2cb",
+    "fontBackground": "#295b71",
+    "textShadow": "3px 3px 0px #101820",
+    "canvasBackground": "#2D2926",
+    "timelineBackground": "#fff9eb",
+    "timelineFontColor": "#000",
+    "backgroundHeader": "#035151",
+    "fontColorHeader": "#f8774f",
+    "detailBackground": "#EEE",
+    "infoBackground": "#33444c",
+    "infoFontColor": "#fff",
+    "searchbarBackground": "#ed6f63"
+  },
+  "projection": {
+    "columns": 12
+  },
+  "detail": {
+    "structure": [
+      {
+        "name": "Title",
+        "source": "_Title",
+        "display": "wide",
+        "type": "markdown"
+      },
+      {
+        "name": "Performing Date",
+        "source": "_PerformingDate",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Time",
+        "source": "_Time",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Running Time",
+        "source": "_RunningTime",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Piano",
+        "source": "_Piano",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Location",
+        "source": "_Location",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Venue",
+        "source": "_Venue",
+        "display": "column",
+        "type": "text"
+      },
+      {
+        "name": "Country",
+        "source": "_Country",
+        "display": "column",
+        "type": "markdown"
+      },
+      {
+        "name": "Program URL",
+        "source": "_ProgramURL",
+        "display": "column",
+        "type": "markdown"
+      },
+      {
+        "name": "Program",
+        "source": "_Program",
+        "display": "wide",
+        "type": "markdown"
+      }
+    ]
+  }
+}

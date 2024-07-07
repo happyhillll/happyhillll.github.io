@@ -1,0 +1,1718 @@
+{
+  "meta": {
+    "type": "sharpsheet",
+    "version": "1",
+    "app": "https://github.com/cpietsch/sharpsheet"
+  },
+  "spritesheets": [
+    {
+      "image": "sprite-1024-0.jpg",
+      "sprites": [
+        {
+          "name": "1",
+          "position": {
+            "x": 1,
+            "y": 1
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "10",
+          "position": {
+            "x": 99,
+            "y": 1
+          },
+          "dimension": {
+            "w": 111,
+            "h": 128
+          }
+        },
+        {
+          "name": "100",
+          "position": {
+            "x": 212,
+            "y": 1
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "101",
+          "position": {
+            "x": 310,
+            "y": 1
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "102",
+          "position": {
+            "x": 402,
+            "y": 1
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "103",
+          "position": {
+            "x": 494,
+            "y": 1
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "104",
+          "position": {
+            "x": 587,
+            "y": 1
+          },
+          "dimension": {
+            "w": 92,
+            "h": 128
+          }
+        },
+        {
+          "name": "105",
+          "position": {
+            "x": 681,
+            "y": 1
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "106",
+          "position": {
+            "x": 773,
+            "y": 1
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "107",
+          "position": {
+            "x": 865,
+            "y": 1
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "108",
+          "position": {
+            "x": 1,
+            "y": 131
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "109",
+          "position": {
+            "x": 93,
+            "y": 131
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "11",
+          "position": {
+            "x": 185,
+            "y": 131
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "110",
+          "position": {
+            "x": 278,
+            "y": 131
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "111",
+          "position": {
+            "x": 370,
+            "y": 131
+          },
+          "dimension": {
+            "w": 92,
+            "h": 128
+          }
+        },
+        {
+          "name": "112",
+          "position": {
+            "x": 464,
+            "y": 131
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "113",
+          "position": {
+            "x": 556,
+            "y": 131
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "114",
+          "position": {
+            "x": 654,
+            "y": 131
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "115",
+          "position": {
+            "x": 746,
+            "y": 131
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "116",
+          "position": {
+            "x": 838,
+            "y": 131
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "117",
+          "position": {
+            "x": 930,
+            "y": 131
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "118",
+          "position": {
+            "x": 1,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "119",
+          "position": {
+            "x": 93,
+            "y": 261
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "12",
+          "position": {
+            "x": 191,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "120",
+          "position": {
+            "x": 283,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "121",
+          "position": {
+            "x": 375,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "122",
+          "position": {
+            "x": 467,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "123",
+          "position": {
+            "x": 559,
+            "y": 261
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "124",
+          "position": {
+            "x": 657,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "125",
+          "position": {
+            "x": 749,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "126",
+          "position": {
+            "x": 841,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "127",
+          "position": {
+            "x": 933,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "128",
+          "position": {
+            "x": 1,
+            "y": 391
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "129",
+          "position": {
+            "x": 99,
+            "y": 391
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "13",
+          "position": {
+            "x": 191,
+            "y": 391
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "130",
+          "position": {
+            "x": 283,
+            "y": 391
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "131",
+          "position": {
+            "x": 376,
+            "y": 391
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "132",
+          "position": {
+            "x": 468,
+            "y": 391
+          },
+          "dimension": {
+            "w": 88,
+            "h": 128
+          }
+        },
+        {
+          "name": "133",
+          "position": {
+            "x": 558,
+            "y": 391
+          },
+          "dimension": {
+            "w": 89,
+            "h": 128
+          }
+        },
+        {
+          "name": "134",
+          "position": {
+            "x": 649,
+            "y": 391
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "135",
+          "position": {
+            "x": 741,
+            "y": 391
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "136",
+          "position": {
+            "x": 834,
+            "y": 391
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "137",
+          "position": {
+            "x": 926,
+            "y": 391
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "138",
+          "position": {
+            "x": 1,
+            "y": 521
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "139",
+          "position": {
+            "x": 94,
+            "y": 521
+          },
+          "dimension": {
+            "w": 113,
+            "h": 128
+          }
+        },
+        {
+          "name": "14",
+          "position": {
+            "x": 209,
+            "y": 521
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "140",
+          "position": {
+            "x": 302,
+            "y": 521
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "141",
+          "position": {
+            "x": 395,
+            "y": 521
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "142",
+          "position": {
+            "x": 487,
+            "y": 521
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "143",
+          "position": {
+            "x": 580,
+            "y": 521
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "144",
+          "position": {
+            "x": 672,
+            "y": 521
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "145",
+          "position": {
+            "x": 764,
+            "y": 521
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "146",
+          "position": {
+            "x": 856,
+            "y": 521
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "147",
+          "position": {
+            "x": 1,
+            "y": 651
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "148",
+          "position": {
+            "x": 93,
+            "y": 651
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "149",
+          "position": {
+            "x": 186,
+            "y": 651
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "15",
+          "position": {
+            "x": 284,
+            "y": 651
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "150",
+          "position": {
+            "x": 376,
+            "y": 651
+          },
+          "dimension": {
+            "w": 93,
+            "h": 128
+          }
+        },
+        {
+          "name": "151",
+          "position": {
+            "x": 471,
+            "y": 651
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "152",
+          "position": {
+            "x": 563,
+            "y": 651
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "153",
+          "position": {
+            "x": 655,
+            "y": 651
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "154",
+          "position": {
+            "x": 747,
+            "y": 651
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "155",
+          "position": {
+            "x": 840,
+            "y": 651
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "16",
+          "position": {
+            "x": 933,
+            "y": 651
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "17",
+          "position": {
+            "x": 1,
+            "y": 781
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "18",
+          "position": {
+            "x": 93,
+            "y": 781
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "19",
+          "position": {
+            "x": 186,
+            "y": 781
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "2",
+          "position": {
+            "x": 278,
+            "y": 781
+          },
+          "dimension": {
+            "w": 94,
+            "h": 128
+          }
+        },
+        {
+          "name": "20",
+          "position": {
+            "x": 374,
+            "y": 781
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "21",
+          "position": {
+            "x": 467,
+            "y": 781
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "22",
+          "position": {
+            "x": 559,
+            "y": 781
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "23",
+          "position": {
+            "x": 657,
+            "y": 781
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "24",
+          "position": {
+            "x": 749,
+            "y": 781
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "25",
+          "position": {
+            "x": 842,
+            "y": 781
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "53",
+          "position": {
+            "x": 935,
+            "y": 781
+          },
+          "dimension": {
+            "w": 79,
+            "h": 128
+          }
+        }
+      ]
+    },
+    {
+      "image": "sprite-1024-1.jpg",
+      "sprites": [
+        {
+          "name": "26",
+          "position": {
+            "x": 1,
+            "y": 1
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "27",
+          "position": {
+            "x": 94,
+            "y": 1
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "28",
+          "position": {
+            "x": 187,
+            "y": 1
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "29",
+          "position": {
+            "x": 279,
+            "y": 1
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "3",
+          "position": {
+            "x": 371,
+            "y": 1
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "30",
+          "position": {
+            "x": 463,
+            "y": 1
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "31",
+          "position": {
+            "x": 555,
+            "y": 1
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "32",
+          "position": {
+            "x": 653,
+            "y": 1
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "33",
+          "position": {
+            "x": 746,
+            "y": 1
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "34",
+          "position": {
+            "x": 844,
+            "y": 1
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "35",
+          "position": {
+            "x": 1,
+            "y": 131
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "36",
+          "position": {
+            "x": 94,
+            "y": 131
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "37",
+          "position": {
+            "x": 186,
+            "y": 131
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "38",
+          "position": {
+            "x": 279,
+            "y": 131
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "39",
+          "position": {
+            "x": 377,
+            "y": 131
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "4",
+          "position": {
+            "x": 469,
+            "y": 131
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "40",
+          "position": {
+            "x": 561,
+            "y": 131
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "41",
+          "position": {
+            "x": 653,
+            "y": 131
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "42",
+          "position": {
+            "x": 745,
+            "y": 131
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "43",
+          "position": {
+            "x": 837,
+            "y": 131
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "44",
+          "position": {
+            "x": 1,
+            "y": 261
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "45",
+          "position": {
+            "x": 94,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "46",
+          "position": {
+            "x": 186,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "47",
+          "position": {
+            "x": 278,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "48",
+          "position": {
+            "x": 370,
+            "y": 261
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "49",
+          "position": {
+            "x": 463,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "5",
+          "position": {
+            "x": 555,
+            "y": 261
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "50",
+          "position": {
+            "x": 648,
+            "y": 261
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "51",
+          "position": {
+            "x": 746,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "52",
+          "position": {
+            "x": 838,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "54",
+          "position": {
+            "x": 930,
+            "y": 261
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "55",
+          "position": {
+            "x": 1,
+            "y": 391
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "56",
+          "position": {
+            "x": 93,
+            "y": 391
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "57",
+          "position": {
+            "x": 185,
+            "y": 391
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "58",
+          "position": {
+            "x": 277,
+            "y": 391
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "59",
+          "position": {
+            "x": 370,
+            "y": 391
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "6",
+          "position": {
+            "x": 468,
+            "y": 391
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "60",
+          "position": {
+            "x": 560,
+            "y": 391
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "61",
+          "position": {
+            "x": 652,
+            "y": 391
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "62",
+          "position": {
+            "x": 750,
+            "y": 391
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "63",
+          "position": {
+            "x": 843,
+            "y": 391
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "64",
+          "position": {
+            "x": 1,
+            "y": 521
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "65",
+          "position": {
+            "x": 93,
+            "y": 521
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "66",
+          "position": {
+            "x": 185,
+            "y": 521
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "67",
+          "position": {
+            "x": 277,
+            "y": 521
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "68",
+          "position": {
+            "x": 369,
+            "y": 521
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "69",
+          "position": {
+            "x": 461,
+            "y": 521
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "7",
+          "position": {
+            "x": 553,
+            "y": 521
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "70",
+          "position": {
+            "x": 645,
+            "y": 521
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "71",
+          "position": {
+            "x": 737,
+            "y": 521
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "72",
+          "position": {
+            "x": 830,
+            "y": 521
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "73",
+          "position": {
+            "x": 922,
+            "y": 521
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "74",
+          "position": {
+            "x": 1,
+            "y": 651
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "76",
+          "position": {
+            "x": 936,
+            "y": 1
+          },
+          "dimension": {
+            "w": 72,
+            "h": 128
+          }
+        },
+        {
+          "name": "77",
+          "position": {
+            "x": 93,
+            "y": 651
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "78",
+          "position": {
+            "x": 185,
+            "y": 651
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "79",
+          "position": {
+            "x": 277,
+            "y": 651
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "8",
+          "position": {
+            "x": 369,
+            "y": 651
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "80",
+          "position": {
+            "x": 462,
+            "y": 651
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "81",
+          "position": {
+            "x": 554,
+            "y": 651
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "82",
+          "position": {
+            "x": 646,
+            "y": 651
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "83",
+          "position": {
+            "x": 738,
+            "y": 651
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "84",
+          "position": {
+            "x": 831,
+            "y": 651
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        },
+        {
+          "name": "85",
+          "position": {
+            "x": 929,
+            "y": 651
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "86",
+          "position": {
+            "x": 1,
+            "y": 781
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "87",
+          "position": {
+            "x": 93,
+            "y": 781
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "88",
+          "position": {
+            "x": 185,
+            "y": 781
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "89",
+          "position": {
+            "x": 277,
+            "y": 781
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "9",
+          "position": {
+            "x": 369,
+            "y": 781
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "90",
+          "position": {
+            "x": 462,
+            "y": 781
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "91",
+          "position": {
+            "x": 554,
+            "y": 781
+          },
+          "dimension": {
+            "w": 91,
+            "h": 128
+          }
+        },
+        {
+          "name": "92",
+          "position": {
+            "x": 647,
+            "y": 781
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "93",
+          "position": {
+            "x": 739,
+            "y": 781
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "94",
+          "position": {
+            "x": 935,
+            "y": 131
+          },
+          "dimension": {
+            "w": 86,
+            "h": 128
+          }
+        },
+        {
+          "name": "95",
+          "position": {
+            "x": 831,
+            "y": 781
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "96",
+          "position": {
+            "x": 923,
+            "y": 781
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        }
+      ]
+    },
+    {
+      "image": "sprite-1024-2.jpg",
+      "sprites": [
+        {
+          "name": "97",
+          "position": {
+            "x": 1,
+            "y": 1
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "98",
+          "position": {
+            "x": 93,
+            "y": 1
+          },
+          "dimension": {
+            "w": 90,
+            "h": 128
+          }
+        },
+        {
+          "name": "99",
+          "position": {
+            "x": 185,
+            "y": 1
+          },
+          "dimension": {
+            "w": 96,
+            "h": 128
+          }
+        }
+      ]
+    }
+  ]
+}
