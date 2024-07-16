@@ -14,4 +14,5 @@ Classical music performances are positioned along the month in which they were p
 
 You can either zoom with your touchpad or scroll wheel in the areas of the music performances in order to see more details. Click and drag the background in order to adjust the visible area.
 
-Background research: Minji Kim from Seoul National University, Meta Humanities Lab
+Background research: Minji Kim   
+from Seoul National University, Meta Humanities Lab
