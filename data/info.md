@@ -1,17 +1,17 @@
-# Van Gogh
+# Recital museum
 
-The [Van Gogh Museum](http://vangoghmuseum.nl/en/) in Amsterdam owns the world's largest collection of artworks by Vincent van Gogh. Among the collection are world famous paintings like "Sunflowers", "Almond Blossom" and "The Potato Eaters". Vincent lived and worked in 14 different cities in the Netherlands, Belgium and France, where among the many famous paintings and self-portraits he also created drawings of the people, animals and landscapes of the region to improve his artistic skills.
+While there has been a lot of archival research on music,there hasn't been much archiving of performances.  
+However, music is an experience, and there is no music if it is not performed, so the value of performances is indescribable.I created this visualization to make it easier for performers and audiences to find information about past performances.You can also check out the actual reservation pages in the hyperlink.
 
 ![tags](img/infobar_tags.svg)
-
-The keywords represent prominent topics in and techniques of the artworks. Click on the keywords in order to thematically narrow down the selection of paintings and drawings.
+The composer information at the top refers to the composer of the pieces performed in the concert program.Click on the composers in order to thematically narrow down the selection of classical music performances in Korea.
 
 ![time](img/infobar_time.svg)
 
-The artworks are positioned along their year of origin. Below the year you can find further biographical information.
+Classical music performances are positioned along the month in which they were performed. Now it is visualized by month, but once the data collection is completed, a visualization over the past 10 years will be created.
 
 ![time](img/infobar_scroll.svg)
 
-You can either zoom with your touchpad or scroll wheel in the areas of the artworks in order to see more details. Klick and drag the background in order to adjust the visible area.
+You can either zoom with your touchpad or scroll wheel in the areas of the music performances in order to see more details. Click and drag the background in order to adjust the visible area.
 
-Background research: Viktoria Brüggemann
+Background research: Minji Kim from Seoul National University, Meta Humanities Lab
