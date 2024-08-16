@@ -6,7 +6,7 @@
   "loader": {
     "info": "data/info.md",
     "timeline": "data/timeline.csv",
-    "items": "data/modified_music_data_with_id.csv",
+    "items": "data/(N)Updated_Music_Data_quarter.csv",
     "voicetype": "data/voicetype.csv",
     "layouts": [
       {
