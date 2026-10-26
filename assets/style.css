@@ -111,3 +111,8 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
   border: 1px solid #e3e5e6; border-radius: 6px;
 }
 .project-img:hover img { border-color: var(--link); }
+
+/* Home: CV-style sections */
+.page__content h2.first { margin-top: 0; }
+.meta.row { display: flex; justify-content: space-between; gap: 1em; flex-wrap: wrap; margin-top: 0; }
+.masthead .fa-file-pdf { color: #c0392b; margin-left: 0.2em; }
