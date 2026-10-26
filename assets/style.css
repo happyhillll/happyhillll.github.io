@@ -166,3 +166,20 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
 }
 .chunk__media img.thumb { max-width: 380px; }
 .page__content p.chunk__link:not(:has(a)) { color: var(--link); }
+
+/* LinkedIn-style experience list */
+.xl__item { display: grid; grid-template-columns: 52px 1fr; gap: 0 1em; padding: 1.3em 0; border-bottom: 1px solid #e8eaeb; }
+.xl__item:first-child { padding-top: 0.2em; }
+.xl__item:last-child { border-bottom: 0; }
+.xl__logo img, .xl__logo-fallback { display: block; width: 48px; height: 48px; object-fit: contain; border-radius: 4px; }
+.xl__logo-fallback { display: flex; align-items: center; justify-content: center; background: #eef1f2; color: var(--text-light); font-size: 1.3em; }
+.page__content .xl__item p { margin: 0; }
+.page__content .xl__org, .page__content .xl__title { font-weight: 600; color: #2f3437; font-size: 1em; }
+.page__content .xl__sub { font-size: 0.9em; }
+.page__content .xl__meta { font-size: 0.85em; color: var(--text-light); line-height: 1.55; }
+.page__content .xl__note { margin-top: 0.5em; font-size: 0.9em; }
+.xl__roles { list-style: none; margin: 0.9em 0 0; padding: 0; }
+.xl__roles li { position: relative; padding: 0 0 1.3em 1.4em; margin: 0; }
+.xl__roles li:last-child { padding-bottom: 0; }
+.xl__roles li::before { content: ""; position: absolute; left: 2px; top: 0.45em; width: 8px; height: 8px; border-radius: 50%; background: #b9bec1; }
+.xl__roles li:not(:last-child)::after { content: ""; position: absolute; left: 5px; top: 1.3em; bottom: 0.3em; width: 2px; background: #e1e4e5; }
