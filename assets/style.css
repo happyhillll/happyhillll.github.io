@@ -192,3 +192,19 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
   .xl__side p { display: inline; }
   .xl__side p + p::before { content: " · "; }
 }
+
+/* Project titles: full-width header row above text and images */
+.chunk { row-gap: 1em; padding: 2.2em 0; }
+.chunk__head {
+  grid-column: 1 / -1; display: flex; justify-content: space-between;
+  align-items: baseline; gap: 0.3em 1.5em; flex-wrap: wrap;
+}
+.page__content h3.chunk__title {
+  margin: 0; font-size: 1.32em; font-weight: 700; line-height: 1.3;
+  color: #1f2427; letter-spacing: -0.01em;
+}
+.chunk__head .chunk__date {
+  display: inline-block; margin: 0; font-size: 0.85em; color: var(--text-light); white-space: nowrap;
+}
+.page__content .chunk__text .chunk__link { margin-top: 0; }
+.chunk__text ul { margin-top: 0; }
