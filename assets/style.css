@@ -164,3 +164,5 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
   .timeline td { padding: 0.65em 0.7em; }
   .timeline td.timeline__date { width: auto; }
 }
+.chunk__media img.thumb { max-width: 380px; }
+.page__content p.chunk__link:not(:has(a)) { color: var(--link); }
