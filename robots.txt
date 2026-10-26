@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://happyhillll.github.io/sitemap.xml
