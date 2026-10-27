@@ -208,3 +208,6 @@ a:hover { color: var(--link-hover); text-decoration: underline; }
 }
 .page__content .chunk__text .chunk__link { margin-top: 0; }
 .chunk__text ul { margin-top: 0; }
+
+/* Korean one-line intro under the role */
+.page__content .intro__ko { margin: -0.5em 0 1.1em; font-size: 0.95em; color: var(--text-light); }
